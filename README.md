@@ -16,6 +16,7 @@ La landing page de HashDev sirve como el punto de entrada principal para desarro
 - Bootstrap (Versión específica)
 
 ## Estructura del Proyecto
+
 landing-page/
 │
 ├── index.html # Página principal
